@@ -1,1 +1,1 @@
-# ucbaihackaton
+# UC Berkeley AI Hackathon
